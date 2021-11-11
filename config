@@ -1,0 +1,88 @@
+Host sendmail-ntl-1
+  Hostname 10.5.68.40
+  User root
+  IdentityFile ~/.ssh/id_rsa
+Host sendmail-ntl-2
+  Hostname 10.5.69.70
+  User root
+  IdentityFile ~/.ssh/id_rsa
+Host sendmail-nps-1
+  Hostname 10.3.93.174
+  User root
+  IdentityFile ~/.ssh/id_rsa
+Host sendmail-nps-2
+  Hostname 10.3.92.19
+  User root
+  IdentityFile ~/.ssh/id_rsa
+Host staging-master-1
+  Hostname 10.5.69.148
+  User root
+  IdentityFile ~/.ssh/id_rsa
+Host staging-master-2
+  Hostname 10.5.70.255
+  User root
+  IdentityFile ~/.ssh/id_rsa
+Host staging-master-3
+  Hostname 10.5.69.62
+  User root
+  IdentityFile ~/.ssh/id_rsa
+Host staging-master-4
+  Hostname 10.3.93.254
+  User root
+  IdentityFile ~/.ssh/id_rsa
+Host staging-master-5
+  Hostname 10.3.92.200
+  User root
+  IdentityFile ~/.ssh/id_rsa
+Host staging-worker-1
+  Hostname 10.5.70.201
+  User root
+  IdentityFile ~/.ssh/id_rsa
+Host staging-worker-2
+  Hostname 10.5.69.124
+  User root
+  IdentityFile ~/.ssh/id_rsa
+Host staging-worker-3
+  Hostname 10.5.69.236
+  User root
+  IdentityFile ~/.ssh/id_rsa
+Host staging-worker-4
+  Hostname 10.5.70.186
+  User root
+  IdentityFile ~/.ssh/id_rsa
+Host staging-worker-5
+  Hostname 10.3.95.119
+  User root
+  IdentityFile ~/.ssh/id_rsa
+Host staging-worker-6
+  Hostname 10.3.95.195
+  User root
+  IdentityFile ~/.ssh/id_rsa
+Host staging-worker-7
+  Hostname 10.3.95.138
+  User root
+  IdentityFile ~/.ssh/id_rsa
+Host staging-worker-8
+  Hostname 10.3.92.72
+  User root
+  IdentityFile ~/.ssh/id_rsa
+Host staging-worker-9
+  Hostname 10.3.95.85
+  User root
+  IdentityFile ~/.ssh/id_rsa
+Host staging-worker-10
+  Hostname 10.3.93.217
+  User root
+  IdentityFile ~/.ssh/id_rsa
+Host staging-lb-ntl
+  Hostname 10.5.70.205
+  User root
+  IdentityFile ~/.ssh/id_rsa
+Host staging-lb-nps
+  Hostname 10.3.93.87
+  User root
+  IdentityFile ~/.ssh/id_rsa 
+Host staging-proxy
+  Hostname 10.5.69.248
+  User root
+  IdentityFile ~/.ssh/id_rsa
